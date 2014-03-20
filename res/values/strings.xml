@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Parlez vous android?</string>
+    <string name="connection_form">Connection Form</string>
+    <string name="action_settings">Settings</string>
+    <string name="usr">admin</string>
+    <string name="pwd">admin</string>
+    <string name="login_username">Username :</string>
+    <string name="login_password">Password :</string>
+    
+    <string name="hello_world">Hello world!</string>
+    <string name="label_login_wrong">Login failed...</string>
+    <string name="label_login_success">Login success!</string>
+    
+    <string name="title_activity_connected">ConnectedActivity</string>
+    <string name="title_activity_list">ListActivity</string>
+
+</resources>
