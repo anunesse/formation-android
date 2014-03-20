@@ -44,12 +44,9 @@ public class Message {
 	    for(String str : myStrings){
 	    	Message myMessage = new Message(str.substring(0, str.indexOf(":")), str.substring(str.indexOf(":")+1));
 	    	myList.add(myMessage);
-	    	System.out.println(myMessage);
+	    	//System.out.println(myMessage);
 	    }
-	    
-	    
-	    
     	return myList;
-    	}
+	}
 	
 }
